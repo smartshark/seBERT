@@ -99,9 +99,6 @@ signed_off_by = re.compile(r'signed-off-by:\s([^(\s<)]+\s){1,5}<[^\s]+>')
 jira_code = re.compile(r'\{code.*\}.+?\{code.*\}')
 jira_noformat = re.compile(r'\{noformat.*\}.+?\{noformat.*\}')
 
-# hashes: alphanumeric, atleast 2 numbers, 7 chars or more
-hashes = re.compile(r'(?=.*?\d.*\d)[a-z0-9]{7,}')
-
 ''' removes control characters '''
 def remove_control(s):
     s = s.replace('\n', ' ')

@@ -1,0 +1,29 @@
+hi [USER], thanks for your attention!
+yes that's a subtle typo that we were not able to correct in the paper.
+your understanding is correct.
+it should be x instead of z.
+
+[USER] it's working now!
+was missing to stringify the error to get the relavent info.
+really appreciated!
+could not make it without your help :)
+
+due to the lazy loading, we need to provide our own search function so that the user can search the texts.
+this function is necessary for both text-view and table-view.
+we can provide two options: search by main text (root text) and search by text contained in the parallels.
+my idea would be to develop this as an independent entity similar to the filter options and attach it to the filter panel.
+
+describe the bug: i tried to re-download this https://osu.ppy.sh/beatmapsets/101953#osu/269773 map (even after reopening the game), but lazer keeps saying that the map _contains no hit objects_ (first screenshot).
+you can see on the info wedge in map selection (second screenshot) that the map really contains nothing, but on stable it contains hit objects instead (third screenshot).
+(note that it's a ranked map) for now, it seems the only map with this problem.
+
+given a list of keywords, retrieve all the questions with tags related to them.
+string similarity can be used, but exact matching is also ok.
+
+currently i use sublime.
+i use it because almost all the work i do is xml based with different languages in different fields.
+for example: xml and java: [CODE] what i would like is a way to have the java be highlighted properly.
+this is simple to do in sublime, but i've been searching for hours and can't find a way to do it in vscode.
+simplicity of sublime: everything between <*source*> and <*/source*> is highlighed in java, while everything else is highlighted as xml [CODE]
+
+i've had to manually update `.gitignore` in the release branch for the 2.1 release: [HASH] however, this could be done automatically by `bin/release.php`, just like it's done for jetpack: https://github.com/automattic/jetpack/blob/master/tools/build-release-branch.sh#l36 we'de need something similar in vaultpress.

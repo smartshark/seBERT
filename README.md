@@ -1,9 +1,11 @@
 # seBERT
 
 This repository contains the code required for the pre-training of seBERT as well as an example for fine-tuning and using the model.
-
+## Create pre-training data
+```
+bash scripts/prepare_data.sh
+```
 ## Pre-training
-
 1. Build the NVIDIA Docker container enviroment.
 ```
 bash scripts/docker/build.sh

@@ -1,3 +1,4 @@
+wordpiece,tokenized by seBERT
 [unused0],[ unused ##0 ]
 [unused1],[ unused ##1 ]
 [unused2],[ unused ##2 ]
@@ -1270,10 +1271,27 @@
 ″,[UNK]
 ‿,[UNK]
 ⁄,[UNK]
+⁰,[UNK]
 ⁱ,[UNK]
+⁴,[UNK]
+⁵,[UNK]
+⁶,[UNK]
+⁷,[UNK]
+⁸,[UNK]
+⁹,[UNK]
 ⁺,[UNK]
 ⁻,[UNK]
 ⁿ,[UNK]
+₀,[UNK]
+₁,[UNK]
+₂,[UNK]
+₃,[UNK]
+₄,[UNK]
+₅,[UNK]
+₆,[UNK]
+₇,[UNK]
+₈,[UNK]
+₉,[UNK]
 ₊,[UNK]
 ₍,[UNK]
 ₎,[UNK]
@@ -1600,9 +1618,11 @@ herself,her ##self
 guitar,gui ##tar
 coach,co ##ach
 province,provin ##ce
+1991,199 ##1
 sister,sis ##ter
 walked,walk ##ed
 vocals,voc ##als
+1989,198 ##9
 officer,office ##r
 lips,lip ##s
 awards,award ##s
@@ -1638,31 +1658,43 @@ catholic,cat ##hol ##ic
 executive,execut ##ive
 chair,chai ##r
 shoulder,should ##er
+1979,197 ##9
 defeated,defe ##ated
 municipality,mun ##icip ##ality
+1981,198 ##1
 studied,stud ##ied
 smiled,smile ##d
+1972,197 ##2
 mexico,mex ##ico
 neck,nec ##k
+1978,197 ##8
 italy,ital ##y
 highway,high ##way
 musical,music ##al
 bass,bas ##s
 parliament,par ##lia ##ment
+1974,197 ##4
 boys,boy ##s
+1975,197 ##5
 stadium,sta ##di ##um
 angeles,angel ##es
 soviet,so ##vie ##t
+1977,197 ##7
 youth,yout ##h
 nodded,nod ##ded
 believed,believe ##d
+1968,196 ##8
+1973,197 ##3
+1945,194 ##5
 bishop,bis ##hop
 prize,pri ##ze
 empire,empir ##e
+1971,197 ##1
 religious,reli ##gi ##ous
 zealand,zeal ##and
 justice,just ##ice
 brothers,brother ##s
+1969,196 ##9
 virginia,virgin ##ia
 cultural,cult ##ural
 basketball,basket ##ball
@@ -1670,6 +1702,7 @@ legs,leg ##s
 islands,island ##s
 chairman,chai ##rm ##an
 grew,gre ##w
+1967,196 ##7
 regiment,reg ##iment
 irish,iris ##h
 operated,operate ##d
@@ -1683,7 +1716,10 @@ pacific,pac ##ific
 democratic,demo ##crat ##ic
 rural,ru ##ral
 township,town ##ship
+1964,196 ##4
+1966,196 ##6
 soldiers,sold ##iers
+1965,196 ##5
 pennsylvania,pen ##ns ##yl ##van ##ia
 genus,genu ##s
 wales,wal ##es
@@ -1693,9 +1729,11 @@ stared,star ##ed
 baseball,base ##ball
 russia,russ ##ia
 metres,met ##res
+1960,196 ##0
 troops,tro ##ops
 creek,cre ##ek
 jewish,je ##wis ##h
+1944,194 ##4
 corps,corp ##s
 mayor,may ##or
 mrs,mr ##s
@@ -1703,7 +1741,9 @@ piano,pi ##ano
 earned,earn ##ed
 drama,dram ##a
 seasons,season ##s
+1963,196 ##3
 squadron,squad ##ron
+1962,196 ##2
 stepped,step ##pe ##d
 19th,19 ##th
 kilometres,kil ##omet ##res
@@ -1715,9 +1755,11 @@ nations,nation ##s
 emperor,emp ##ero ##r
 headed,head ##ed
 ministry,mini ##str ##y
+1942,194 ##2
 throat,thr ##oa ##t
 politician,polit ##ician
 males,male ##s
+1961,196 ##1
 newspaper,news ##paper
 olympics,ol ##ym ##pic ##s
 carolina,car ##olin ##a
@@ -1728,26 +1770,37 @@ duke,du ##ke
 lieutenant,lie ##ute ##nan ##t
 affairs,aff ##airs
 contemporary,cont ##emp ##ora ##ry
+1943,194 ##3
 prison,pris ##on
+1956,195 ##6
+1958,195 ##8
 drums,dru ##ms
 housing,hous ##ing
 victoria,victor ##ia
+1959,195 ##9
 graduated,grad ##uate ##d
 1980s,1980 ##s
 loved,love ##d
 racing,rac ##ing
 elizabeth,el ##iza ##bet ##h
+1941,194 ##1
+1940,194 ##0
 competed,compet ##ed
+1948,194 ##8
 actress,act ##ress
 marine,mari ##ne
 scotland,scot ##land
 glanced,glance ##d
+1957,195 ##7
 singles,single ##s
 residents,resident ##s
 founder,found ##er
 households,house ##hold ##s
+1939,193 ##9
+1946,194 ##6
 younger,young ##er
 appearances,appearance ##s
+1950,195 ##0
 avenue,aven ##ue
 infantry,inf ##ant ##ry
 buried,bur ##ied
@@ -1755,14 +1808,17 @@ republican,rep ##ublic ##an
 1970s,1970 ##s
 israel,isra ##el
 champions,champion ##s
+1955,195 ##5
 20th,20 ##th
 memorial,memor ##ial
 naval,nav ##al
 whispered,whis ##per ##ed
 sydney,sy ##dn ##ey
 columbia,col ##umb ##ia
+1952,195 ##2
 tears,tear ##s
 asian,asia ##n
+1947,194 ##7
 leaned,lean ##ed
 mountains,mountain ##s
 entertainment,enter ##tain ##ment
@@ -1770,10 +1826,13 @@ murder,mur ##der
 orchestra,orchestr ##a
 comedy,come ##dy
 rugby,ru ##gb ##y
+1954,195 ##4
+1953,195 ##3
 ohio,oh ##io
 fought,fou ##ght
 shoulders,should ##ers
 headquarters,head ##qu ##arter ##s
+1949,194 ##9
 teeth,tee ##th
 settlement,settle ##ment
 scottish,scott ##ish
@@ -1784,6 +1843,7 @@ deputy,dep ##ut ##y
 battalion,batt ##ali ##on
 sons,son ##s
 crime,cri ##me
+1951,195 ##1
 1990s,1990 ##s
 conducted,conduct ##ed
 wearing,wear ##ing
@@ -1808,7 +1868,10 @@ brigade,bri ##gad ##e
 clothes,cloth ##es
 theater,the ##ater
 supreme,sup ##reme
+1938,193 ##8
 suffered,suffer ##ed
+1936,193 ##6
+1918,191 ##8
 seats,seat ##s
 armed,arme ##d
 railroad,rail ##road
@@ -1821,6 +1884,7 @@ politics,polit ##ics
 relief,reli ##ef
 independence,independ ##ence
 oxford,ox ##ford
+1937,193 ##7
 heritage,her ##ita ##ge
 situated,sit ##uate ##d
 toronto,tor ##onto
@@ -1845,6 +1909,7 @@ korea,kore ##a
 bronze,bro ##nz ##e
 sexual,sex ##ual
 labour,lab ##our
+1935,193 ##5
 jesus,jes ##us
 atlantic,atl ##antic
 cancer,cance ##r
@@ -1852,32 +1917,39 @@ attacked,attack ##ed
 imperial,imper ##ial
 uncle,unc ##le
 fame,fam ##e
+1930,193 ##0
 davis,dav ##is
 trains,train ##s
 pakistan,pak ##ista ##n
 northwest,north ##west
 documentary,document ##ary
 cemetery,ce ##meter ##y
+1919,191 ##9
 cricket,cri ##cket
 streets,street ##s
 tradition,trad ##ition
+1933,193 ##3
 exhibition,exhibit ##ion
 injury,in ##ju ##ry
 apartment,apart ##ment
 municipal,mun ##icip ##al
 netherlands,nether ##lands
 constitution,constit ##ution
+1914,191 ##4
 opposition,oppos ##ition
 ontario,ont ##ario
 hills,hill ##s
 lewis,lew ##is
 chamber,cham ##ber
+1934,193 ##4
 lyrics,ly ##rics
 staring,star ##ing
 officials,official ##s
+1917,191 ##7
 dinner,din ##ner
 fans,fan ##s
 bowl,bow ##l
+1929,192 ##9
 authorities,author ##ities
 princess,prin ##cess
 performances,performance ##s
@@ -1886,7 +1958,9 @@ starring,star ##ring
 acres,ac ##res
 southeast,south ##ea ##st
 earl,ear ##l
+1928,192 ##8
 dean,de ##an
+1932,193 ##2
 religion,reli ##gi ##on
 centuries,cent ##uri ##es
 sweden,swed ##en
@@ -1900,8 +1974,10 @@ cambridge,cam ##bridge
 villages,village ##s
 districts,district ##s
 criminal,cri ##min ##al
+1931,193 ##1
 communist,commun ##ist
 laugh,la ##ugh
+1927,192 ##7
 darkness,dark ##ness
 anne,ann ##e
 wings,wing ##s
@@ -1910,11 +1986,13 @@ walter,wal ##ter
 winners,winner ##s
 aged,age ##d
 northeast,north ##ea ##st
+1922,192 ##2
 wooden,wood ##en
 poet,po ##et
 rising,ris ##ing
 violence,viol ##ence
 ford,for ##d
+1924,192 ##4
 offices,office ##s
 singing,sing ##ing
 pope,pop ##e
@@ -1924,14 +2002,18 @@ commissioned,commission ##ed
 americans,american ##s
 wrestling,wre ##st ##ling
 employed,employ ##ed
+1925,192 ##5
 1950s,195 ##0s
 inhabitants,in ##hab ##itan ##ts
 towns,town ##s
 flowers,flower ##s
+1912,191 ##2
 bureau,bur ##ea ##u
 cape,cap ##e
+1926,192 ##6
 presidential,pres ##ident ##ial
 legislative,leg ##is ##lat ##ive
+1921,192 ##1
 founding,found ##ing
 artillery,art ##iller ##y
 institutions,institution ##s
@@ -1943,9 +2025,12 @@ mexican,mex ##ican
 charlie,char ##lie
 howard,how ##ard
 moscow,mos ##cow
+1923,192 ##3
 struck,str ##uck
+1915,191 ##5
 melbourne,mel ##bour ##ne
 southwest,south ##west
+1916,191 ##6
 metropolitan,metro ##pol ##itan
 fighter,fight ##er
 grown,grow ##n
@@ -1953,6 +2038,7 @@ anger,ange ##r
 domestic,dom ##est ##ic
 worldwide,world ##wide
 chapel,chap ##el
+1910,191 ##0
 turkey,turk ##ey
 18th,18 ##th
 journalist,journal ##ist
@@ -1993,6 +2079,7 @@ engaged,engage ##d
 austria,aust ##ria
 norway,nor ##way
 pale,pal ##e
+1913,191 ##3
 tropical,tro ##pic ##al
 minnesota,min ##nes ##ota
 philippines,philipp ##ines
@@ -2007,6 +2094,7 @@ colorado,color ##ado
 survived,survive ##d
 jews,je ##ws
 distinguished,distinguish ##ed
+1911,191 ##1
 athletic,ath ##let ##ic
 transportation,transport ##ation
 horses,horse ##s
@@ -2047,6 +2135,7 @@ tennessee,ten ##ness ##ee
 wounded,wo ##und ##ed
 dating,dat ##ing
 anniversary,ann ##ivers ##ary
+1908,190 ##8
 dynasty,dyn ##asty
 queensland,que ##ens ##land
 crisis,cris ##is
@@ -2087,14 +2176,17 @@ greece,gre ##ec ##e
 rivers,river ##s
 sighed,sigh ##ed
 accused,acc ##used
+1905,190 ##5
 islamic,is ##lam ##ic
 directors,director ##s
 7th,7 ##th
 breathing,breath ##ing
 amateur,am ##ate ##ur
+1906,190 ##6
 flew,fle ##w
 tokyo,tok ##yo
 ridge,rid ##ge
+1907,190 ##7
 concluded,conclude ##d
 desert,deser ##t
 universities,univers ##ities
@@ -2108,6 +2200,7 @@ montreal,mont ##real
 17th,17 ##th
 ears,ear ##s
 vocal,voc ##al
+1909,190 ##9
 riding,rid ##ing
 threatened,threat ##ened
 compete,compet ##e
@@ -2146,6 +2239,7 @@ harris,har ##ris
 rio,ri ##o
 conservation,conserv ##ation
 1930s,193 ##0s
+1904,190 ##4
 victims,victim ##s
 duties,dut ##ies
 belgium,bel ##gi ##um
@@ -2173,6 +2267,8 @@ ceo,ce ##o
 parliamentary,par ##lia ##ment ##ary
 dublin,dub ##lin
 louisiana,louis ##iana
+1902,190 ##2
+1901,190 ##1
 coastal,coast ##al
 medieval,medi ##eval
 scholars,scholar ##s
@@ -2275,6 +2371,7 @@ ambassador,amb ##ass ##ador
 couples,couple ##s
 campbell,camp ##bell
 ethan,eth ##an
+1898,189 ##8
 springs,spring ##s
 dogs,dog ##s
 plastic,plas ##tic
@@ -2309,11 +2406,13 @@ robinson,robin ##son
 traveled,travel ##ed
 wayne,way ##ne
 austrian,aust ##rian
+1899,189 ##9
 jamie,jam ##ie
 knee,kn ##ee
 protest,prote ##st
 ottoman,ot ##tom ##an
 symphony,sym ##phony
+1890,189 ##0
 revolutionary,revolution ##ary
 popularity,popular ##ity
 grip,gri ##p
@@ -2352,7 +2451,9 @@ indigenous,ind ##igen ##ous
 susan,sus ##an
 attracted,attract ##ed
 romantic,roman ##tic
+1895,189 ##5
 demanded,demand ##ed
+1896,189 ##6
 logan,log ##an
 revival,revi ##val
 commanded,command ##ed
@@ -2371,6 +2472,7 @@ clan,cla ##n
 romania,roman ##ia
 mills,mill ##s
 shrugged,shr ##ugg ##ed
+1897,189 ##7
 rhythm,rhy ##thm
 breakfast,break ##fast
 lasted,last ##ed
@@ -2412,11 +2514,13 @@ foster,fos ##ter
 vessels,ves ##sel ##s
 evans,evan ##s
 patrol,pat ##rol
+1889,188 ##9
 competitions,competition ##s
 athletics,ath ##let ##ics
 birmingham,bir ##ming ##ham
 sponsored,sponsor ##ed
 nomination,nom ##ination
+1893,189 ##3
 acoustic,ac ##ous ##tic
 harbor,har ##bor
 territories,ter ##rit ##ories
@@ -2427,9 +2531,11 @@ archbishop,arch ##bi ##shop
 girlfriend,girl ##friend
 serbian,ser ##bian
 scent,scen ##t
+1892,189 ##2
 scientists,scient ##ists
 pole,pol ##e
 rival,ri ##val
+1894,189 ##4
 grave,grav ##e
 constitutional,constit ##ution ##al
 alcohol,alc ##oh ##ol
@@ -2438,6 +2544,7 @@ larry,lar ##ry
 cotton,cot ##ton
 scholarship,scholar ##ship
 cbs,cb ##s
+1885,188 ##5
 editions,edition ##s
 knocked,knock ##ed
 saints,sai ##nt ##s
@@ -2448,6 +2555,7 @@ lakes,lake ##s
 jacket,jack ##et
 peaked,peak ##ed
 annually,annual ##ly
+1891,189 ##1
 terry,ter ##ry
 brooklyn,bro ##ok ##lyn
 catherine,cat ##her ##ine
@@ -2476,6 +2584,7 @@ harrison,har ##rison
 deaths,death ##s
 asleep,asl ##ee ##p
 decline,decl ##ine
+1888,188 ##8
 concentration,concent ##ration
 hispanic,his ##pan ##ic
 emotions,emotion ##s
@@ -2486,8 +2595,10 @@ violin,viol ##in
 departure,depart ##ure
 richmond,rich ##mond
 funeral,fun ##era ##l
+1864,186 ##4
 connor,conn ##or
 sergeant,serge ##ant
+1865,186 ##5
 sacred,sac ##red
 portland,port ##land
 agencies,age ##nc ##ies
@@ -2495,6 +2606,7 @@ sculpture,sc ##ulp ##tu ##re
 jerusalem,jer ##usa ##lem
 lloyd,ll ##oy ##d
 arkansas,ark ##ans ##as
+1880,188 ##0
 concerts,conce ##rt ##s
 rushed,rush ##ed
 premiere,premier ##e
@@ -2527,11 +2639,13 @@ touring,tour ##ing
 duo,du ##o
 civilian,civil ##ian
 emotional,emotion ##al
+1887,188 ##7
 tommy,tomm ##y
 costa,cost ##a
 rocky,rock ##y
 siege,sie ##ge
 friendship,friends ##hip
+1861,186 ##1
 amy,am ##y
 governments,government ##s
 collins,coll ##ins
@@ -2540,10 +2654,12 @@ laura,laur ##a
 pregnant,preg ##nan ##t
 businessman,business ##man
 alleged,alle ##ged
+1862,186 ##2
 perry,per ##ry
 passion,pass ##ion
 biological,bio ##logical
 boyfriend,boy ##friend
+1863,186 ##3
 buffalo,buff ##alo
 struggled,struggle ##d
 abroad,ab ##road
@@ -2552,11 +2668,13 @@ thereafter,there ##after
 madrid,mad ##rid
 widespread,wide ##sp ##read
 tale,tal ##e
+1886,188 ##6
 vancouver,van ##co ##uve ##r
 overseas,overs ##ea ##s
 crying,cry ##ing
 descent,desc ##ent
 regime,reg ##ime
+1870,187 ##0
 provinces,provin ##ces
 drum,dru ##m
 zane,zan ##e
@@ -2580,6 +2698,7 @@ submarine,sub ##mar ##ine
 finnish,finn ##ish
 defending,defe ##nd ##ing
 defend,defe ##nd
+1884,188 ##4
 affiliated,affili ##ated
 stuart,stu ##art
 villa,vill ##a
@@ -2589,6 +2708,7 @@ crimes,cri ##mes
 folded,fold ##ed
 demolished,demo ##lis ##hed
 lucy,luc ##y
+1881,188 ##1
 traded,trade ##d
 photographs,photo ##graph ##s
 beth,bet ##h
@@ -2646,6 +2766,7 @@ tales,tal ##es
 manhattan,man ##hat ##ta ##n
 murdered,mur ##der ##ed
 fitted,fit ##ted
+1882,188 ##2
 gentle,gent ##le
 grandmother,grand ##mot ##her
 shocked,shock ##ed
@@ -2702,8 +2823,10 @@ lanka,lan ##ka
 herbert,her ##bert
 outdoor,out ##door
 toured,tour ##ed
+1883,188 ##3
 contested,contest ##ed
 swept,swe ##pt
+1878,187 ##8
 prisoner,pris ##one ##r
 bangladesh,bang ##la ##des ##h
 wealthy,we ##alth ##y
@@ -2720,9 +2843,11 @@ chancellor,chance ##llo ##r
 knights,knight ##s
 eldest,eld ##est
 flames,flame ##s
+1860,186 ##0
 endemic,end ##em ##ic
 settlers,settle ##rs
 pursue,purs ##ue
+1876,187 ##6
 mansion,man ##si ##on
 sentenced,sentence ##d
 guitars,gui ##tar ##s
@@ -2769,6 +2894,7 @@ activist,activ ##ist
 porch,por ##ch
 worship,wor ##ship
 fourteen,four ##tee ##n
+1871,187 ##1
 housed,house ##d
 sailed,sail ##ed
 doctors,doctor ##s
@@ -2779,6 +2905,7 @@ traditions,trad ##itions
 dominant,domin ##ant
 jacques,jac ##ques
 relocated,relocate ##d
+1879,187 ##9
 amendment,amend ##ment
 volleyball,volley ##ball
 spun,spu ##n
@@ -2786,6 +2913,7 @@ acre,ac ##re
 loves,love ##s
 drafted,draft ##ed
 tossed,toss ##ed
+1875,187 ##5
 filming,film ##ing
 shoved,sho ##ved
 munich,mun ##ich
@@ -2803,6 +2931,7 @@ rubbed,rub ##bed
 subsidiary,subs ##idi ##ary
 armenian,arme ##ni ##an
 sao,sa ##o
+1867,186 ##7
 festivals,fest ##ival ##s
 immigration,imm ##igr ##ation
 physician,phys ##ician
@@ -2820,12 +2949,14 @@ baptist,bap ##ti ##st
 interstate,inters ##ta ##te
 organic,organ ##ic
 playoffs,play ##off ##s
+1877,187 ##7
 hindu,hind ##u
 tours,tour ##s
 arrangements,arrangement ##s
 trapped,trap ##pe ##d
 sank,san ##k
 athens,ath ##ens
+1872,187 ##2
 denver,den ##ver
 welfare,wel ##far ##e
 suburb,sub ##urb
@@ -2833,6 +2964,8 @@ athletes,ath ##lete ##s
 diverse,diver ##se
 belly,bell ##y
 yelled,ye ##ll ##ed
+1868,186 ##8
+1874,187 ##4
 internationally,international ##ly
 conductor,conduct ##or
 dispute,disp ##ute
@@ -2843,6 +2976,7 @@ municipalities,mun ##icip ##ali ##ties
 airlines,air ##lines
 manufactured,manufact ##ured
 archaeological,arch ##ae ##olo ##gi ##cal
+1873,187 ##3
 devon,dev ##on
 settlements,settle ##ments
 kissing,kiss ##ing
@@ -2857,6 +2991,7 @@ interviews,interview ##s
 raymond,ray ##mond
 burns,burn ##s
 bulgarian,bul ##gar ##ian
+1866,186 ##6
 alberta,albert ##a
 romanized,roman ##ized
 relieved,reli ##eve ##d
@@ -2942,6 +3077,7 @@ travelled,travel ##led
 ibn,ib ##n
 fortress,fort ##ress
 carved,car ##ved
+1869,186 ##9
 coaches,co ##aches
 beaten,beat ##en
 northwestern,north ##west ##ern
@@ -2982,6 +3118,7 @@ camps,camp ##s
 croatian,cro ##ati ##an
 evolved,evolve ##d
 pradesh,pra ##des ##h
+1850,185 ##0
 convicted,conv ##ict ##ed
 cage,cag ##e
 caroline,car ##oline
@@ -2991,6 +3128,7 @@ christianity,christian ##ity
 trent,tre ##nt
 commanding,command ##ing
 buddhist,budd ##hist
+1848,184 ##8
 maurice,ma ##uri ##ce
 yale,ya ##le
 veteran,veter ##an
@@ -3050,6 +3188,7 @@ tissue,ti ##ss ##ue
 floors,floor ##s
 architects,architect ##s
 rope,rop ##e
+1859,185 ##9
 ottawa,ot ##ta ##wa
 proteins,protein ##s
 resignation,res ##ign ##ation
@@ -3066,6 +3205,7 @@ riders,rider ##s
 warsaw,wars ##aw
 distinctive,distinct ##ive
 jessica,jess ##ica
+1857,185 ##7
 customs,custom ##s
 mere,mer ##e
 depicted,dep ##ict ##ed
@@ -3165,6 +3305,7 @@ hannah,hann ##ah
 bishops,bis ##hop ##s
 swear,swe ##ar
 commenced,comm ##enced
+1854,185 ##4
 nashville,nash ##ville
 courage,cour ##age
 commitment,commit ##ment
@@ -3199,6 +3340,7 @@ chambers,cham ##bers
 striking,stri ##king
 montgomery,mont ##go ##mer ##y
 praise,pra ##ise
+1855,185 ##5
 sanctuary,san ##ct ##uary
 fbi,fb ##i
 programmes,programme ##s
@@ -3213,6 +3355,7 @@ dale,dal ##e
 cork,cor ##k
 dome,dom ##e
 panama,pan ##ama
+1858,185 ##8
 quartet,quart ##et
 melody,melo ##dy
 disbanded,dis ##band ##ed
@@ -3289,6 +3432,7 @@ threatening,threat ##ening
 attractive,attract ##ive
 seminary,semi ##na ##ry
 estates,estate ##s
+1856,185 ##6
 wounds,wo ##und ##s
 refugees,ref ##uge ##es
 manufacturers,manufacturer ##s
@@ -3328,6 +3472,8 @@ moderate,moder ##ate
 pistol,pist ##ol
 questioned,question ##ed
 brass,bra ##ss
+1852,185 ##2
+1851,185 ##1
 pronounced,pron ##ounce ##d
 uncomfortable,uncom ##fort ##able
 presidency,pres ##ide ##nc ##y
@@ -3382,6 +3528,7 @@ platinum,plat ##inum
 theatrical,the ##at ##rical
 seated,seat ##ed
 glen,gle ##n
+1840,184 ##0
 diversity,diver ##si ##ty
 provisions,provision ##s
 columbus,col ##umb ##us
@@ -3400,6 +3547,7 @@ believing,belie ##ving
 consultant,consult ##ant
 proceedings,proceeding ##s
 travelling,travel ##ling
+1853,185 ##3
 kerala,ker ##ala
 yugoslavia,yu ##gos ##lav ##ia
 methodist,method ##ist
@@ -3448,6 +3596,7 @@ reid,re ##id
 beliefs,belie ##fs
 congo,con ##go
 casey,case ##y
+1849,184 ##9
 regret,regr ##et
 streak,stre ##ak
 rape,rap ##e
@@ -3516,6 +3665,7 @@ seventeen,seven ##tee ##n
 rodriguez,rodrig ##uez
 princeton,prin ##cet ##on
 sox,so ##x
+1847,184 ##7
 arguing,argu ##ing
 hank,han ##k
 oakland,oak ##land
@@ -3541,6 +3691,7 @@ associates,associate ##s
 collegiate,colle ##gi ##ate
 quarterfinals,quarter ##final ##s
 oval,ov ##al
+1846,184 ##6
 martha,mart ##ha
 victories,victor ##ies
 sharply,sharp ##ly
@@ -3655,12 +3806,14 @@ essay,ess ##ay
 ordained,ord ##ain ##ed
 edmund,edm ##und
 rifles,ri ##fl ##es
+1830,183 ##0
 audiences,audience ##s
 penn,pen ##n
 sussex,sus ##sex
 pursued,purs ##ued
 indianapolis,india ##nap ##oli ##s
 rosa,ros ##a
+1845,184 ##5
 inland,inl ##and
 counsel,coun ##sel
 chronicle,chron ##icle
@@ -3761,6 +3914,7 @@ beds,bed ##s
 afterward,after ##ward
 diary,dia ##ry
 richards,richard ##s
+1837,183 ##7
 conspiracy,cons ##pi ##racy
 conscious,cons ##cious
 shining,shin ##ing
@@ -3825,7 +3979,9 @@ morocco,mor ##occ ##o
 pounding,po ##und ##ing
 treasury,tre ##as ##ury
 lithuania,lith ##uan ##ia
+1841,184 ##1
 dish,dis ##h
+1812,181 ##2
 geological,geo ##logical
 marched,march ##ed
 brien,bri ##en
@@ -3873,6 +4029,7 @@ enterprises,enterprise ##s
 loudly,loud ##ly
 composers,composer ##s
 nominations,nom ##inations
+1838,183 ##8
 malta,mal ##ta
 inquiry,inquir ##y
 automobile,autom ##obi ##le
@@ -3913,6 +4070,8 @@ bradford,brad ##ford
 classics,classic ##s
 fists,fist ##s
 butt,but ##t
+1842,184 ##2
+1839,183 ##9
 gage,ga ##ge
 telegraph,tele ##graph
 expelled,exp ##elle ##d
@@ -3943,9 +4102,11 @@ fears,fear ##s
 drifted,drift ##ed
 vegetation,ve ##get ##ation
 revolt,rev ##olt
+1843,184 ##3
 opposing,oppos ##ing
 nato,nat ##o
 skating,sk ##ating
+1836,183 ##6
 secretly,secret ##ly
 ruin,rui ##n
 flora,flor ##a
@@ -3985,6 +4146,7 @@ millennium,mill ##enn ##ium
 cello,cell ##o
 rescued,rescue ##d
 cardiff,card ##iff
+1835,183 ##5
 concentrate,concent ##rate
 senators,sen ##ators
 beard,bear ##d
@@ -4015,6 +4177,7 @@ zurich,zu ##rich
 lovers,love ##rs
 kicking,kick ##ing
 treasurer,tre ##asure ##r
+1832,183 ##2
 biblical,bibli ##cal
 terrified,ter ##rif ##ied
 agrees,agree ##s
@@ -4231,6 +4394,7 @@ councillor,council ##lor
 blown,blow ##n
 swan,sw ##an
 cursed,curse ##d
+1815,181 ##5
 haired,hair ##ed
 rivalry,ri ##val ##ry
 rapper,rap ##per
@@ -4239,6 +4403,7 @@ swords,sword ##s
 maxwell,max ##well
 estonia,est ##oni ##a
 potter,pot ##ter
+1834,183 ##4
 claws,cla ##ws
 nadu,nad ##u
 roberto,robert ##o
@@ -4366,6 +4531,7 @@ budapest,bud ##ape ##st
 conrad,con ##rad
 sterling,ste ##rl ##ing
 rector,rect ##or
+1831,183 ##1
 loans,loan ##s
 christine,christ ##ine
 volcanic,vol ##can ##ic
@@ -4386,6 +4552,7 @@ tribune,trib ##une
 baldwin,bal ##dw ##in
 neighbourhood,neighbour ##hood
 donna,don ##na
+1814,181 ##4
 espn,esp ##n
 glare,gl ##are
 highland,high ##land
@@ -4419,6 +4586,7 @@ dealer,deal ##er
 coral,cor ##al
 maple,map ##le
 polo,pol ##o
+1833,183 ##3
 watts,wat ##ts
 rebounds,reb ##ounds
 burma,bur ##ma
@@ -4445,6 +4613,7 @@ commercially,commercial ##ly
 salon,sal ##on
 winnipeg,win ##ni ##peg
 interference,interfere ##nc ##e
+1820,182 ##0
 armoured,arm ##our ##ed
 initiatives,initiative ##s
 robe,rob ##e
@@ -4583,6 +4752,7 @@ profits,profit ##s
 specimen,spec ##imen
 ancestry,ancest ##ry
 pottery,pot ##tery
+1825,182 ##5
 debris,deb ##ris
 asylum,as ##yl ##um
 buddhism,budd ##hi ##sm
@@ -4650,8 +4820,10 @@ rica,ric ##a
 neill,neil ##l
 holocaust,holo ##ca ##ust
 lust,lu ##st
+1828,182 ##8
 cooling,cool ##ing
 unveiled,un ##ve ##iled
+1829,182 ##9
 nsw,ns ##w
 homer,home ##r
 chapman,chap ##man
@@ -4712,6 +4884,7 @@ bacon,bac ##on
 petty,pet ##ty
 hampton,ham ##pto ##n
 diagnosis,diagn ##osis
+1824,182 ##4
 rita,rit ##a
 disputed,disp ##uted
 pablo,pa ##blo
@@ -4760,6 +4933,7 @@ ella,ell ##a
 countess,count ##ess
 diamonds,diamond ##s
 expressway,express ##way
+1821,182 ##1
 uruguay,ur ##ug ##ua ##y
 talents,talent ##s
 galleries,gall ##eries
@@ -4871,6 +5045,7 @@ caring,car ##ing
 lunar,luna ##r
 lisbon,lis ##bon
 patted,pat ##ted
+1826,182 ##6
 sacramento,sac ##rame ##nt ##o
 theft,the ##ft
 madagascar,mad ##aga ##sc ##ar
@@ -4971,6 +5146,7 @@ clarinet,clar ##inet
 delicious,deli ##cious
 chilean,chi ##lean
 karnataka,kar ##nat ##aka
+1818,181 ##8
 panties,pant ##ies
 pretending,pretend ##ing
 kiev,kie ##v
@@ -5009,6 +5185,7 @@ brewery,brew ##ery
 unemployment,une ##mp ##loy ##ment
 boyd,boy ##d
 prophet,prop ##he ##t
+1813,181 ##3
 quarterly,quarter ##ly
 asteroid,aster ##oid
 telugu,tel ##ug ##u
@@ -5089,7 +5266,9 @@ confined,conf ##ined
 muller,mull ##er
 floyd,flo ##yd
 nora,nor ##a
+1822,182 ##2
 paved,pav ##ed
+1827,182 ##7
 cumberland,cum ##ber ##land
 ned,ne ##d
 spiral,spir ##al
@@ -5119,6 +5298,7 @@ matthews,matthew ##s
 effectiveness,effective ##ness
 parody,par ##ody
 philharmonic,phil ##har ##mon ##ic
+1816,181 ##6
 strangers,strange ##rs
 consortium,conso ##rt ##ium
 tortured,torture ##d
@@ -5130,6 +5310,7 @@ handball,hand ##ball
 generous,gener ##ous
 thief,thi ##ef
 carr,car ##r
+1793,179 ##3
 ucla,ucl ##a
 romeo,rom ##eo
 metallic,metal ##lic
@@ -5142,6 +5323,7 @@ partnered,partner ##ed
 spectators,spect ##ators
 penalties,penal ##ties
 teresa,ter ##esa
+1801,180 ##1
 dalton,dal ##ton
 irving,ir ##ving
 photographic,photo ##graphic
@@ -5198,10 +5380,13 @@ unhappy,unh ##appy
 regina,reg ##ina
 russians,russian ##s
 tram,tra ##m
+1806,180 ##6
 aging,ag ##ing
+1823,182 ##3
 garion,gar ##ion
 rented,rent ##ed
 diaz,dia ##z
+1817,181 ##7
 nervously,nerv ##ously
 owe,ow ##e
 defenders,defender ##s
@@ -5215,6 +5400,7 @@ belarus,bel ##arus
 watershed,water ##she ##d
 fuller,full ##er
 overlooking,overlook ##ing
+1819,181 ##9
 moaned,mo ##ane ##d
 memoir,memo ##ir
 lamb,lam ##b
@@ -5498,8 +5684,10 @@ lotus,lot ##us
 randolph,rand ##ol ##ph
 succeeding,succeed ##ing
 jupiter,jup ##iter
+1798,179 ##8
 macedonian,mac ##edo ##ni ##an
 hiking,hi ##king
+1808,180 ##8
 handing,hand ##ing
 fischer,fis ##cher
 papua,pap ##ua
@@ -5528,6 +5716,7 @@ mercer,merc ##er
 valencia,val ##enc ##ia
 hale,hal ##e
 kuwait,ku ##wait
+1811,181 ##1
 tavern,ta ##vern
 airways,air ##ways
 amino,ami ##no
@@ -5542,6 +5731,7 @@ motorway,motor ##way
 conception,concept ##ion
 coffin,coff ##in
 stalin,sta ##lin
+1805,180 ##5
 escorted,esc ##orted
 minded,mind ##ed
 sitcom,sit ##com
@@ -5588,9 +5778,11 @@ offspring,off ##spring
 daniels,daniel ##s
 formations,formation ##s
 jokes,joke ##s
+1794,179 ##4
 pioneers,pio ##ne ##ers
 wheelchair,wheel ##cha ##ir
 polite,polit ##e
+1807,180 ##7
 liquor,liqu ##or
 pratt,pra ##tt
 trustee,trust ##ee
@@ -5696,9 +5888,11 @@ hartford,hart ##ford
 millimetres,mill ##ime ##tre ##s
 dodgers,dod ##gers
 albion,alb ##ion
+1790,179 ##0
 overwhelmed,overwhel ##med
 aerospace,aero ##space
 oaks,oak ##s
+1795,179 ##5
 recovering,recover ##ing
 nolan,no ##lan
 ashe,ash ##e
@@ -5712,6 +5906,7 @@ shrug,shr ##ug
 marquis,mar ##quis
 wimbledon,wim ##ble ##don
 rue,ru ##e
+1792,179 ##2
 commemorate,comm ##emo ##rate
 inevitable,inev ##itable
 calcutta,calc ##utt ##a
@@ -5772,6 +5967,7 @@ displacement,displace ##ment
 precipitation,prec ##ip ##itation
 knuckles,kn ##uck ##les
 clutched,cl ##utch ##ed
+1802,180 ##2
 marrying,mar ##ry ##ing
 ecology,eco ##logy
 marx,mar ##x
@@ -5909,6 +6105,7 @@ bees,bee ##s
 miserable,mis ##era ##ble
 cassidy,cass ##idy
 dominion,domin ##ion
+1789,178 ##9
 cupped,cup ##pe ##d
 robbery,rob ##ber ##y
 facto,fact ##o
@@ -5969,6 +6166,7 @@ receptors,rece ##ptor ##s
 hawkins,hawk ##ins
 mattered,matter ##ed
 slavic,sla ##vic
+1799,179 ##9
 jesuit,jes ##uit
 cameroon,camer ##oon
 wax,wa ##x
@@ -6002,6 +6200,7 @@ capped,cap ##pe ##d
 pseudonym,pseudo ##ny ##m
 pharmacy,phar ##mac ##y
 paraguay,para ##gu ##ay
+1796,179 ##6
 archipelago,arch ##ipe ##lag ##o
 syndicated,synd ##icated
 lumber,lum ##ber
@@ -6049,6 +6248,7 @@ mara,mar ##a
 spears,spe ##ars
 nathaniel,nathan ##iel
 brennan,bre ##nn ##an
+1776,177 ##6
 caucus,ca ##uc ##us
 markings,marking ##s
 yemen,ye ##men
@@ -6131,6 +6331,7 @@ zombies,zombie ##s
 pumping,pump ##ing
 livingston,living ##ston
 emerald,emer ##ald
+1797,179 ##7
 peel,pee ##l
 nitrogen,nit ##rog ##en
 rama,ram ##a
@@ -6220,6 +6421,7 @@ immense,imm ##ense
 pavement,pav ##ement
 sutherland,su ##ther ##land
 crouched,cro ##uch ##ed
+1775,177 ##5
 suzuki,su ##zu ##ki
 endurance,end ##urance
 operas,opera ##s
@@ -6268,6 +6470,7 @@ magistrate,mag ##istr ##ate
 recruiting,rec ##ruit ##ing
 malik,mal ##ik
 antique,anti ##que
+1791,179 ##1
 pius,pi ##us
 rahman,rah ##man
 reich,re ##ich
@@ -6670,6 +6873,7 @@ deed,dee ##d
 scratched,scratch ##ed
 dared,dar ##ed
 cardiac,card ##iac
+1780,178 ##0
 okinawa,ok ##ina ##wa
 commando,command ##o
 compelled,comp ##elle ##d
@@ -6837,6 +7041,7 @@ treatise,treat ##ise
 squeezing,squee ##zi ##ng
 evidently,evi ##den ##tl ##y
 prolonged,pro ##long ##ed
+1783,178 ##3
 venezuelan,ven ##ez ##uel ##an
 marguerite,marg ##uer ##ite
 beirut,be ##iru ##t
@@ -7010,6 +7215,7 @@ deeds,dee ##ds
 jonah,jon ##ah
 vacancy,vac ##ancy
 suv,su ##v
+1788,178 ##8
 famine,fam ##ine
 belarusian,bel ##arus ##ian
 sprang,spr ##ang
@@ -7257,6 +7463,7 @@ cyril,cy ##ril
 amendments,amend ##ments
 consultation,consult ##ation
 kindness,kind ##ness
+1787,178 ##7
 paddy,pad ##dy
 seeming,seem ##ing
 piers,pier ##s
@@ -7301,6 +7508,7 @@ ked,ke ##d
 catholicism,cat ##hol ##ici ##sm
 townsend,town ##send
 quincy,qu ##inc ##y
+1777,177 ##7
 ashore,ash ##ore
 aragon,ara ##gon
 forearm,fore ##arm
@@ -7403,6 +7611,7 @@ kramer,kra ##mer
 reigning,re ##igning
 absorption,abs ##orp ##tion
 engraved,engr ##aved
+1778,177 ##8
 haze,haz ##e
 comforting,comfort ##ing
 crossover,cross ##over
@@ -7486,6 +7695,7 @@ spinal,spin ##al
 traction,trac ##tion
 declan,decl ##an
 vows,vow ##s
+1784,178 ##4
 glowed,glow ##ed
 capitalism,capital ##ism
 swirling,sw ##irl ##ing
@@ -7660,6 +7870,7 @@ wee,we ##e
 wwf,ww ##f
 expresses,express ##es
 coca,coc ##a
+1781,178 ##1
 cheating,cheat ##ing
 sensory,sensor ##y
 heidelberg,he ##idel ##berg
@@ -7691,6 +7902,7 @@ greenwood,green ##wood
 defences,defe ##nc ##es
 militant,milit ##ant
 somali,som ##ali
+1758,175 ##8
 potent,pot ##ent
 migrants,migr ##ants
 assistants,assistant ##s
@@ -7721,6 +7933,7 @@ chant,chan ##t
 sped,spe ##d
 absorb,abs ##orb
 hail,ha ##il
+1782,178 ##2
 spared,spare ##d
 barbados,bar ##bad ##os
 karate,kar ##ate
@@ -7940,6 +8153,7 @@ participates,participate ##s
 eruption,er ##upt ##ion
 skate,sk ##ate
 therapeutic,ther ##ape ##ut ##ic
+1785,178 ##5
 canals,canal ##s
 wholesale,whole ##sa ##le
 petit,pet ##it
@@ -8037,6 +8251,7 @@ penned,pen ##ned
 remarkably,remark ##ably
 slips,slip ##s
 luggage,lu ##gg ##age
+1786,178 ##6
 collaborations,collaboration ##s
 louie,lou ##ie
 consolidation,consolid ##ation
@@ -8062,6 +8277,7 @@ tucson,tu ##cs ##on
 revue,rev ##ue
 springer,spring ##er
 bankrupt,bank ##rupt
+1772,177 ##2
 aristotle,ari ##sto ##tle
 salvatore,salv ##ator ##e
 habsburg,hab ##sb ##ur ##g
@@ -8137,6 +8353,7 @@ peterborough,peter ##bor ##ough
 grains,grain ##s
 dickinson,dick ##inson
 rwanda,rw ##anda
+1774,177 ##4
 dirk,dir ##k
 caretaker,caret ##aker
 hostilities,host ##ilities
@@ -8150,6 +8367,7 @@ tango,tang ##o
 diplomacy,dip ##lo ##mac ##y
 variously,various ##ly
 arrests,arr ##ests
+1779,177 ##9
 celestial,cele ##st ##ial
 pulitzer,pul ##itz ##er
 libretto,libre ##tto
@@ -8200,6 +8418,7 @@ giorgio,gio ##rg ##io
 planetary,planet ##ary
 centenary,cent ##ena ##ry
 arising,ari ##sing
+1770,177 ##0
 chrysler,chr ##ys ##ler
 pomeranian,pom ##era ##ni ##an
 macarthur,mac ##arth ##ur
@@ -8341,6 +8560,7 @@ impending,imp ##ending
 steward,stew ##ard
 beautifully,beautiful ##ly
 brandy,brand ##y
+1660,166 ##0
 alessandro,ale ##ss ##andro
 punches,punch ##es
 laced,la ##ced
@@ -8469,6 +8689,7 @@ dominique,domin ##ique
 elevations,elevation ##s
 headlights,head ##lights
 laguna,lag ##una
+1750,175 ##0
 famously,famous ##ly
 shrewsbury,shr ##ews ##bur ##y
 breuning,bre ##uni ##ng
@@ -8621,6 +8842,7 @@ francaise,franc ##ai ##se
 richest,rich ##est
 warwickshire,war ##wi ##cks ##hi ##re
 carly,carl ##y
+1763,176 ##3
 purity,pur ##ity
 lending,len ##ding
 bruises,br ##ui ##ses
@@ -9017,6 +9239,7 @@ husbands,hu ##sb ##ands
 flaming,fl ##aming
 langley,lang ##ley
 yorker,york ##er
+1760,176 ##0
 walters,wal ##ters
 gubernatorial,gubernator ##ial
 fatty,fat ##ty
@@ -9425,6 +9648,7 @@ battled,battle ##d
 formulated,formula ##ted
 stephenson,stephen ##son
 gravitational,grav ##itation ##al
+1768,176 ##8
 granny,gran ##ny
 coordinating,coordin ##ating
 monarchs,mona ##rc ##hs
@@ -9483,6 +9707,7 @@ actresses,act ##ress ##es
 taft,ta ##ft
 luce,luc ##e
 prevailed,prev ##ail ##ed
+1773,177 ##3
 motionless,motion ##less
 testify,test ##ify
 investing,invest ##ing
@@ -9923,6 +10148,7 @@ pang,pan ##g
 oblique,obl ##ique
 flirting,fli ##rt ##ing
 newborn,newb ##orn
+1769,176 ##9
 bishopric,bis ##hop ##ric
 shaved,sha ##ved
 currie,curr ##ie
@@ -9949,6 +10175,7 @@ lbs,lb ##s
 refrain,ref ##rain
 mimi,mim ##i
 postmaster,post ##master
+1771,177 ##1
 motorsports,motors ##ports
 tito,tit ##o
 bully,bull ##y
@@ -9998,6 +10225,7 @@ minsk,mins ##k
 assessments,assessment ##s
 martian,mart ##ian
 royalist,roy ##alis ##t
+1765,176 ##5
 examines,examine ##s
 nino,nin ##o
 parry,par ##ry
@@ -10014,6 +10242,7 @@ trolley,troll ##ey
 breeders,bree ##ders
 dryly,dry ##ly
 hokkaido,ho ##kk ##aid ##o
+1762,176 ##2
 strengths,strength ##s
 bonaparte,bon ##ap ##art ##e
 neared,near ##ed
@@ -10327,6 +10556,7 @@ christi,christ ##i
 lau,la ##u
 disclosed,disc ##losed
 nemesis,nem ##esis
+1761,176 ##1
 straining,stra ##ining
 northamptonshire,north ##amp ##ton ##shi ##re
 bernardino,bern ##ard ##ino
@@ -10356,9 +10586,11 @@ massey,mass ##ey
 gatherings,gathering ##s
 haitian,ha ##iti ##an
 disapproval,dis ##appro ##val
+1766,176 ##6
 npr,np ##r
 boroughs,bor ##ough ##s
 creole,cre ##ole
+1755,175 ##5
 dent,den ##t
 abdominal,abd ##omi ##nal
 streetcar,street ##car
@@ -10403,6 +10635,7 @@ stepfather,step ##fat ##her
 reefs,re ##efs
 speeding,speed ##ing
 barons,bar ##ons
+1764,176 ##4
 inhabit,in ##hab ##it
 preached,pre ##ached
 repealed,repe ##aled
@@ -10413,6 +10646,7 @@ administer,administ ##er
 johanna,johan ##na
 gel,ge ##l
 suspiciously,suspicious ##ly
+1767,176 ##7
 sobs,so ##bs
 hayward,hay ##ward
 garry,gar ##ry
@@ -10431,6 +10665,7 @@ smack,sm ##ack
 conveyed,convey ##ed
 ensembles,ensemble ##s
 gardening,garden ##ing
+1640,164 ##0
 harvesting,harvest ##ing
 topography,topo ##graphy
 jing,jin ##g
@@ -10515,6 +10750,7 @@ reluctance,reluct ##ance
 hailey,ha ##iley
 crore,cro ##re
 silvery,silver ##y
+1759,175 ##9
 monstrous,mon ##stro ##us
 swimmers,swim ##mer ##s
 transmissions,transmission ##s
@@ -10576,6 +10812,7 @@ entertainer,enter ##tain ##er
 caress,cares ##s
 originate,origin ##ate
 residue,resid ##ue
+1740,174 ##0
 beech,bee ##ch
 subsidies,subs ##idi ##es
 emptied,empt ##ied
@@ -10606,6 +10843,7 @@ indicted,indic ##ted
 periodical,periodic ##al
 fullback,full ##back
 haynes,hay ##nes
+1745,174 ##5
 thirst,thi ##rs ##t
 stumble,stumb ##le
 penang,pen ##ang
@@ -10941,6 +11179,7 @@ resisting,resist ##ing
 bitterness,bit ##tern ##ess
 sewer,se ##wer
 rockies,rock ##ies
+1756,175 ##6
 galloway,gall ##owa ##y
 risked,risk ##ed
 commemoration,comm ##emo ##ration
@@ -11037,6 +11276,7 @@ petitioned,pet ##ition ##ed
 maclean,mac ##lean
 mosquito,mosqu ##ito
 hampered,ham ##per ##ed
+1648,164 ##8
 operatic,opera ##tic
 reservoirs,reserv ##oi ##rs
 jolt,jo ##lt
@@ -11074,6 +11314,7 @@ beamed,beam ##ed
 kaladin,kal ##adin
 halftime,half ##time
 kidnap,kid ##nap
+1754,175 ##4
 synonymous,synonym ##ous
 depleted,dep ##lete ##d
 instituto,instit ##uto
@@ -11084,6 +11325,7 @@ interrupting,interrupt ##ing
 radcliffe,rad ##cli ##ffe
 insisting,insist ##ing
 medici,medic ##i
+1715,171 ##5
 ejected,eject ##ed
 playfully,play ##fully
 turbulent,tur ##bul ##ent
@@ -11092,6 +11334,7 @@ rebellious,reb ##ell ##ious
 petersen,peter ##sen
 merits,mer ##its
 cakes,cake ##s
+1757,175 ##7
 milford,mil ##ford
 shortages,short ##ages
 spying,spy ##ing
@@ -11135,6 +11378,7 @@ legislators,leg ##is ##lator ##s
 berries,ber ##ries
 peninsular,pen ##ins ##ular
 tinged,tin ##ged
+1689,168 ##9
 amplifier,ampl ##ifier
 corvette,cor ##vet ##te
 ribbons,ribbon ##s
@@ -11487,6 +11731,7 @@ boon,boo ##n
 cactus,cact ##us
 legions,legion ##s
 perceptions,per ##ception ##s
+1730,173 ##0
 picturesque,pictures ##que
 periphery,peripher ##y
 rune,run ##e
@@ -11609,6 +11854,7 @@ chronological,chrono ##logical
 diplomats,dip ##lo ##mat ##s
 ochreous,oc ##hr ##eo ##us
 symmetrical,symmetric ##al
+1644,164 ##4
 maia,ma ##ia
 salts,salt ##s
 reigns,re ##ign ##s
@@ -11647,6 +11893,7 @@ raiding,raid ##ing
 sykes,sy ##kes
 bsc,bs ##c
 deliveries,deliver ##ies
+1720,172 ##0
 invasions,inv ##asi ##ons
 carmichael,car ##mic ##ha ##el
 tajikistan,ta ##ji ##ki ##stan
@@ -11805,6 +12052,7 @@ doherty,doh ##ert ##y
 doping,do ##ping
 sarcastically,sar ##cast ##ically
 maneuvers,man ##eu ##vers
+1753,175 ##3
 showtime,show ##time
 cafes,caf ##es
 gasps,gas ##ps
@@ -11827,6 +12075,7 @@ djs,dj ##s
 recaptured,recap ##tu ##red
 timetable,time ##table
 vila,vi ##la
+1710,171 ##0
 aerodrome,aero ##dro ##me
 mortals,mort ##als
 scientology,scient ##ology
@@ -11951,6 +12200,7 @@ monograph,mono ##graph
 airplanes,air ##plane ##s
 labourers,lab ##our ##ers
 charms,charm ##s
+1661,166 ##1
 hagen,ha ##gen
 tnt,tn ##t
 rudder,rud ##der
@@ -11963,6 +12213,7 @@ retorted,ret ##orted
 raining,rain ##ing
 encompassed,enc ##omp ##ass ##ed
 menacing,men ##acing
+1642,164 ##2
 lineman,line ##man
 vamps,vamp ##s
 gloom,glo ##om
@@ -11971,6 +12222,7 @@ easing,eas ##ing
 seekers,seek ##ers
 helens,hel ##ens
 unmanned,unm ##ann ##ed
+1688,168 ##8
 brutality,brut ##ality
 horne,hor ##ne
 sui,su ##i
@@ -12068,6 +12320,7 @@ engages,engage ##s
 immensely,imm ##ense ##ly
 unbearable,un ##bear ##able
 fairchild,fair ##child
+1620,162 ##0
 dona,don ##a
 lurking,lu ##rk ##ing
 parisian,paris ##ian
@@ -12165,8 +12418,10 @@ indifferent,ind ##iffer ##ent
 hoffmann,ho ##ff ##mann
 idols,id ##ols
 intimidating,int ##im ##ida ##ting
+1751,175 ##1
 influenza,influ ##enz ##a
 onions,onion ##s
+1748,174 ##8
 bandage,band ##age
 consciously,cons ##cious ##ly
 clandestine,cla ##nd ##est ##ine
@@ -12209,6 +12464,7 @@ kerman,ker ##man
 fairbanks,fair ##bank ##s
 jarrett,jar ##rett
 saharan,sa ##har ##an
+1746,174 ##6
 kincaid,kin ##ca ##id
 sash,sas ##h
 luciano,luci ##ano
@@ -12216,6 +12472,7 @@ helmut,helm ##ut
 revolutionaries,revolution ##aries
 creamy,cre ##am ##y
 leach,lea ##ch
+1747,174 ##7
 permitting,permit ##ting
 plight,pl ##ight
 wendell,wen ##dell
@@ -12321,6 +12578,7 @@ juliette,juli ##ette
 jurisprudence,jur ##isp ##ru ##den ##ce
 guerra,gu ##err ##a
 casimir,cas ##imir
+1749,174 ##9
 clapton,clap ##ton
 cloudy,cloud ##y
 conde,cond ##e
@@ -12341,6 +12599,7 @@ dreamer,dream ##er
 consecration,cons ##ec ##ration
 climates,climate ##s
 hospitalized,hospital ##ized
+1752,175 ##2
 torino,tor ##ino
 afternoons,afternoon ##s
 winfield,win ##field
@@ -12363,6 +12622,7 @@ grips,gri ##ps
 rehearsals,rehear ##sa ##ls
 thinkers,think ##ers
 tame,tam ##e
+1690,169 ##0
 acacia,ac ##ac ##ia
 reformer,reform ##er
 shuffling,shuff ##ling
@@ -12500,6 +12760,7 @@ marcelo,marcel ##o
 vibrating,vibr ##ating
 montrose,mont ##rose
 seamus,seam ##us
+1630,163 ##0
 cocky,cock ##y
 bjorn,bj ##orn
 fielder,field ##er
@@ -12521,6 +12782,7 @@ balthazar,bal ##th ##az ##ar
 butte,but ##te
 orson,or ##son
 myriad,my ##ria ##d
+1707,170 ##7
 silenced,silence ##d
 netball,net ##ball
 yourselves,yours ##el ##ves
@@ -12535,6 +12797,7 @@ vile,vi ##le
 illicit,ill ##ici ##t
 suriname,sur ##ina ##me
 overture,over ##tu ##re
+1685,168 ##5
 bubbling,bub ##bling
 gymnast,gym ##na ##st
 tucking,tu ##ck ##ing
@@ -12643,6 +12906,7 @@ rockwell,rock ##well
 crusader,cru ##sa ##der
 revolutions,revolution ##s
 scrambling,scra ##mb ##ling
+1714,171 ##4
 grover,gro ##ver
 englishman,english ##man
 aztec,az ##tec
@@ -12666,6 +12930,7 @@ johor,joh ##or
 malley,mall ##ey
 bunk,bun ##k
 airfields,air ##fields
+1741,174 ##1
 encompass,enc ##omp ##ass
 remington,rem ##ington
 amelie,am ##el ##ie
@@ -12709,6 +12974,7 @@ headwaters,head ##water ##s
 interlude,inter ##lude
 distraught,dist ##ra ##ught
 draught,dra ##ught
+1727,172 ##7
 biased,bias ##ed
 triad,tri ##ad
 subgenus,sub ##gen ##us
@@ -12813,6 +13079,7 @@ recital,rec ##ital
 trois,tro ##is
 commemorates,comm ##emo ##rate ##s
 marge,marg ##e
+1643,164 ##3
 ravaged,rav ##aged
 catastrophe,cat ##astro ##phe
 albrecht,alb ##rec ##ht
@@ -12854,12 +13121,14 @@ sudanese,sud ##ane ##se
 innate,inn ##ate
 hypothetical,hypoth ##etical
 hysterical,hyst ##eric ##al
+1743,174 ##3
 fabio,fab ##io
 indefinite,indefin ##ite
 warped,warp ##ed
 exchanging,exc ##hang ##ing
 unsuitable,uns ##uit ##able
 gallo,gall ##o
+1603,160 ##3
 bret,bre ##t
 cobalt,co ##bal ##t
 homemade,home ##mad ##e
@@ -12872,6 +13141,7 @@ succumbed,succ ##umb ##ed
 regulators,regulator ##s
 filmfare,film ##far ##e
 rochelle,roc ##hell ##e
+1725,172 ##5
 circumstance,circumst ##ance
 saber,sab ##er
 supplements,supplement ##s
@@ -12888,6 +13158,7 @@ anthologies,ant ##hol ##og ##ies
 barrio,barri ##o
 nebula,nebul ##a
 bodyguards,body ##guard ##s
+2021,202 ##1
 assassinate,ass ##assin ##ate
 barns,barn ##s
 emmett,em ##met ##t
@@ -12899,7 +13170,9 @@ prized,pri ##zed
 adventist,advent ##ist
 alla,all ##a
 invertebrates,invert ##eb ##rate ##s
+1641,164 ##1
 amman,am ##man
+1742,174 ##2
 healy,heal ##y
 redistribution,redistribut ##ion
 insulation,ins ##ulation
@@ -12963,6 +13236,8 @@ racers,race ##rs
 tingle,tin ##gle
 introductions,introduction ##s
 radically,radical ##ly
+1610,161 ##0
+1739,173 ##9
 munchen,mun ##chen
 plead,ple ##ad
 condo,cond ##o
@@ -12988,6 +13263,7 @@ hedges,hed ##ges
 thrusts,thrust ##s
 shadowed,shadow ##ed
 darby,dar ##by
+1744,174 ##4
 gregorian,gregor ##ian
 sham,sha ##m
 emory,emo ##ry
@@ -13027,6 +13303,7 @@ arias,aria ##s
 clemson,cle ##ms ##on
 kazakh,kaz ##ak ##h
 sizable,siz ##able
+1662,166 ##2
 plunge,pl ##ung ##e
 tatum,tat ##um
 vittorio,vit ##tor ##io
@@ -13114,7 +13391,9 @@ appleton,applet ##on
 kitchens,kitchen ##s
 disclose,disc ##lose
 metis,met ##is
+1701,170 ##1
 fitch,fit ##ch
+1735,173 ##5
 blooded,blood ##ed
 cyclones,cycl ##ones
 eun,eu ##n
@@ -13128,6 +13407,7 @@ boil,bo ##il
 lanterns,lan ##tern ##s
 partridge,part ##ridge
 roofed,roo ##fed
+1645,164 ##5
 necks,nec ##ks
 opined,opin ##ed
 patting,pat ##ting
@@ -13233,11 +13513,13 @@ troopers,tro ##oper ##s
 condemnation,cond ##em ##nat ##ion
 fitzpatrick,fit ##zp ##at ##rick
 inexperienced,in ##exper ##ience ##d
+1670,167 ##0
 castes,cast ##es
 dubois,dub ##oi ##s
 flicking,flick ##ing
 quarrel,qu ##arre ##l
 learners,learner ##s
+1625,162 ##5
 whistled,whis ##tle ##d
 tariffs,tar ##iffs
 temperament,temper ##ament
@@ -13337,6 +13619,7 @@ prank,pra ##nk
 maison,ma ##ison
 lobbied,lob ##bie ##d
 provocative,prov ##ocat ##ive
+1724,172 ##4
 utopia,ut ##op ##ia
 carbonate,carbon ##ate
 gujarati,gu ##jar ##ati
@@ -13406,6 +13689,7 @@ delgado,del ##gad ##o
 headlining,head ##lining
 jug,ju ##g
 tko,tk ##o
+1649,164 ##9
 naga,nag ##a
 intersections,intersection ##s
 benfica,ben ##fi ##ca
@@ -13454,6 +13738,7 @@ freshmen,fresh ##men
 klan,kl ##an
 attaining,att ##ain ##ing
 transatlantic,trans ##at ##lan ##tic
+1723,172 ##3
 combatants,combat ##ants
 intervening,inter ##ven ##ing
 chieftain,chi ##ef ##tain
@@ -13491,6 +13776,7 @@ kraft,kra ##ft
 susanna,sus ##ann ##a
 genealogy,gene ##alog ##y
 redding,red ##ding
+1722,172 ##2
 bowing,bow ##ing
 lest,les ##t
 sharpened,sharp ##ened
@@ -13520,6 +13806,7 @@ asteroids,aster ##oids
 rediscovered,redis ##cover ##ed
 buds,bud ##s
 flea,fle ##a
+1737,173 ##7
 classifications,classification ##s
 debuts,deb ##uts
 olympus,ol ##ym ##pu ##s
@@ -13543,6 +13830,7 @@ accountable,account ##able
 socrates,soc ##rate ##s
 regulates,regul ##ates
 mueller,mu ##elle ##r
+1702,170 ##2
 solids,solid ##s
 himalayas,him ##ala ##ya ##s
 nutrient,nut ##rie ##nt
@@ -13575,6 +13863,7 @@ yoo,yo ##o
 oldies,old ##ies
 bastion,bast ##ion
 sparkle,spark ##le
+1728,172 ##8
 leash,lea ##sh
 pathogen,path ##ogen
 highs,high ##s
@@ -13683,6 +13972,7 @@ amplified,ampl ##ified
 geraldine,ger ##ald ##ine
 babylonian,babylon ##ian
 fresco,fres ##co
+1718,171 ##8
 fukuoka,fu ##ku ##ok ##a
 osborn,os ##born
 partnering,partner ##ing
@@ -13691,6 +13981,7 @@ whitley,whit ##ley
 gables,gab ##les
 softness,soft ##ness
 immersion,immers ##ion
+1713,171 ##3
 chilling,chi ##lling
 insignificant,ins ##ign ##ific ##ant
 elites,elite ##s
@@ -13702,6 +13993,7 @@ proficient,prof ##icient
 rouen,rou ##en
 niccolo,nic ##col ##o
 fluffy,flu ##ff ##y
+1621,162 ##1
 gruff,gru ##ff
 knotted,kn ##ott ##ed
 mukherjee,mu ##kh ##er ##je ##e
@@ -13795,6 +14087,7 @@ maverick,mav ##eric ##k
 resented,res ##ent ##ed
 nazareth,naz ##are ##th
 tyrol,ty ##rol
+1675,167 ##5
 assent,ass ##ent
 poorer,poor ##er
 sectional,section ##al
@@ -13821,6 +14114,7 @@ enrichment,enrich ##ment
 henson,hen ##son
 keane,ke ##ane
 persians,pers ##ians
+1733,173 ##3
 benji,ben ##ji
 braden,brad ##en
 contenders,cont ##enders
@@ -13834,6 +14128,7 @@ ahmedabad,ahmed ##aba ##d
 tangent,tang ##ent
 toppled,top ##ple ##d
 dorchester,dor ##chest ##er
+1672,167 ##2
 modernism,modern ##ism
 marxism,mar ##xi ##sm
 islamist,is ##lam ##ist
@@ -13888,6 +14183,7 @@ dorsey,dor ##sey
 lass,las ##s
 arching,arch ##ing
 passageway,pass ##age ##way
+1708,170 ##8
 researches,research ##es
 internationals,international ##s
 distinguishes,distinguish ##es
@@ -13901,6 +14197,7 @@ georgina,georgi ##na
 zulu,zul ##u
 overcoming,over ##coming
 argyll,arg ##yll
+1734,173 ##4
 chiba,chi ##ba
 ratification,rat ##ification
 windy,wind ##y
@@ -13924,14 +14221,17 @@ heartland,heart ##land
 nonlinear,non ##linear
 bladed,blade ##d
 cheerfully,che ##er ##fully
+1666,166 ##6
 girlfriends,girl ##friend ##s
 pedersen,ped ##ers ##en
 hiram,hir ##am
 sous,sou ##s
+1683,168 ##3
 bobo,bob ##o
 primaries,primar ##ies
 unearthed,une ##arth ##ed
 uniformly,uniform ##ly
+1635,163 ##5
 recoil,reco ##il
 hilbert,hil ##bert
 jamestown,james ##to ##wn
@@ -13942,6 +14242,7 @@ antics,anti ##cs
 coli,col ##i
 fated,fate ##d
 stucco,stu ##cc ##o
+1654,165 ##4
 bulky,bulk ##y
 accolades,acc ##ola ##des
 caledonian,cal ##edo ##ni ##an
@@ -13977,6 +14278,7 @@ townsville,town ##sv ##ille
 buena,bu ##ena
 southport,south ##port
 kato,kat ##o
+1638,163 ##8
 faerie,fa ##eri ##e
 stiffly,st ##iff ##ly
 flawless,flaw ##less
@@ -13993,12 +14295,14 @@ coping,cop ##ing
 fission,fis ##si ##on
 hardin,hard ##in
 inca,inc ##a
+1717,171 ##7
 mobilized,mobil ##ized
 vhf,vh ##f
 biscuits,bis ##cu ##its
 curate,cura ##te
 gaunt,ga ##unt
 neighbourhoods,neighbour ##hood ##s
+1540,154 ##0
 blanca,bla ##nc ##a
 bypassed,bypass ##ed
 behold,beh ##old
@@ -14028,6 +14332,7 @@ bulging,bul ##ging
 assimilation,ass ##im ##ilation
 persuasion,pers ##ua ##si ##on
 felicia,fel ##ici ##a
+1732,173 ##2
 explodes,explode ##s
 lyman,ly ##man
 vulture,vul ##tu ##re
@@ -14060,6 +14365,7 @@ airship,air ##ship
 compulsion,comp ##uls ##ion
 recapture,recap ##tu ##re
 arthritis,arth ##rit ##is
+1667,166 ##7
 asserting,assert ##ing
 ngc,ng ##c
 sniffing,sniff ##ing
@@ -14083,12 +14389,14 @@ coptic,cop ##tic
 progressing,progress ##ing
 stemmed,stem ##med
 perpetrators,per ##pet ##rat ##ors
+1665,166 ##5
 priestess,pri ##est ##ess
 dobson,dob ##son
 ebony,eb ##ony
 rooster,roo ##ster
 itf,it ##f
 tortricidae,tort ##ric ##ida ##e
+1721,172 ##1
 eighties,eight ##ies
 taxonomic,taxon ##omic
 holiness,hol ##iness
@@ -14136,6 +14444,7 @@ botanic,bot ##ani ##c
 antiques,anti ##ques
 paxton,pax ##ton
 timeless,timel ##ess
+1704,170 ##4
 engraver,engr ##aver
 hounds,hou ##nd ##s
 looted,loot ##ed
@@ -14204,6 +14513,7 @@ decidedly,decided ##ly
 weep,we ##ep
 puget,pug ##et
 unease,une ##ase
+1629,162 ##9
 hammering,hammer ##ing
 kassel,kas ##sel
 wessex,wes ##sex
@@ -14224,6 +14534,7 @@ mendes,men ##des
 utmost,utm ##ost
 briefing,brief ##ing
 gunnery,gun ##ner ##y
+1679,167 ##9
 khalifa,kh ##ali ##fa
 sonya,sony ##a
 principals,principal ##s
@@ -14274,6 +14585,7 @@ upbeat,up ##beat
 statehood,state ##hood
 platt,plat ##t
 paving,pav ##ing
+1738,173 ##8
 abbess,ab ##bes ##s
 impatience,imp ##ati ##ence
 limousine,lim ##ous ##ine
@@ -14306,6 +14618,7 @@ redeveloped,rede ##velope ##d
 restraints,rest ##rain ##ts
 barbarians,bar ##bar ##ians
 chopper,cho ##pper
+1609,160 ##9
 italiana,italian ##a
 investigates,investigate ##s
 wrestlemania,wre ##st ##lem ##ania
@@ -14345,6 +14658,7 @@ hirsch,hir ##sch
 calderon,cal ##der ##on
 sneakers,sne ##aker ##s
 moravian,mor ##avi ##an
+1622,162 ##2
 bodo,bod ##o
 anatomical,ana ##tom ##ical
 kunst,kun ##st
@@ -14358,6 +14672,7 @@ coa,co ##a
 rodents,rod ##ents
 tonic,ton ##ic
 hickory,hi ##ck ##ory
+1719,171 ##9
 aldo,ald ##o
 breaststroke,bre ##ast ##stro ##ke
 dempsey,dem ##pse ##y
@@ -14376,13 +14691,17 @@ archangel,arch ##ange ##l
 harassed,har ##ass ##ed
 archway,arch ##way
 dazzling,da ##zz ##ling
+1736,173 ##6
 sumo,sum ##o
 honneur,hon ##ne ##ur
+1605,160 ##5
+1716,171 ##6
 rents,rent ##s
 hires,hire ##s
 howie,how ##ie
 retracted,ret ##ract ##ed
 shocks,shock ##s
+1632,163 ##2
 arun,ar ##un
 duluth,du ##lu ##th
 kepler,ke ##pler
@@ -14419,12 +14738,14 @@ fisted,fist ##ed
 hallways,hall ##ways
 likeness,like ##ness
 upscale,ups ##cale
+1580,158 ##0
 blinds,blind ##s
 prequel,pre ##que ##l
 deter,det ##er
 humiliating,hum ##ili ##ating
 restraining,rest ##rain ##ing
 vents,vent ##s
+1659,165 ##9
 laundering,la ##under ##ing
 recess,rece ##ss
 rosary,ros ##ary
@@ -14460,6 +14781,7 @@ demonstrators,demonstr ##ators
 handcuffs,hand ##cu ##ff ##s
 dodged,dod ##ged
 mcnamara,mc ##nam ##ara
+1726,172 ##6
 crazed,cra ##zed
 ivo,iv ##o
 pondered,pon ##der ##ed
@@ -14473,6 +14795,7 @@ shelly,shell ##y
 whitehall,white ##hall
 israelis,isra ##el ##is
 peacekeeping,peace ##keeping
+1703,170 ##3
 demetrius,dem ##et ##ri ##us
 ousted,ou ##sted
 beale,bea ##le
@@ -14520,24 +14843,30 @@ exercising,exerc ##ising
 antoinette,ant ##oi ##net ##te
 bedfordshire,bed ##ford ##shi ##re
 dyed,dy ##ed
+1656,165 ##6
 racetrack,race ##track
 variability,vari ##ability
+1655,165 ##5
 austrians,aust ##rian ##s
 deteriorating,det ##eri ##ora ##ting
 madman,mad ##man
 theorists,theor ##ists
 lehman,le ##hm ##an
 weathered,weather ##ed
+1731,173 ##1
 decreed,decre ##ed
 eruptions,er ##upt ##ions
+1729,172 ##9
 quinlan,qu ##in ##lan
 sorbonne,sor ##bon ##ne
 flutes,flu ##tes
 nunez,nu ##ne ##z
+1711,171 ##1
 adored,ado ##red
 downwards,down ##wards
 fable,fab ##le
 rasped,rasp ##ed
+1712,171 ##2
 moritz,mor ##itz
 mouthful,mo ##uth ##ful
 renegade,ren ##eg ##ade
@@ -14552,6 +14881,7 @@ bain,ba ##in
 chihuahua,chi ##hu ##ah ##ua
 malacca,mal ##acca
 vimes,vime ##s
+1664,166 ##4
 donnie,don ##nie
 plaques,pla ##ques
 bangs,bang ##s
@@ -14564,6 +14894,7 @@ handgun,hand ##gun
 ubiquitous,ub ##iqu ##ito ##us
 eras,era ##s
 zodiac,zo ##di ##ac
+1634,163 ##4
 1820s,182 ##0s
 cochran,coc ##hr ##an
 warring,war ##ring
@@ -14580,6 +14911,7 @@ condemning,cond ##em ##ning
 hunts,hunt ##s
 moffat,mo ##ffa ##t
 taekwondo,ta ##ek ##wo ##nd ##o
+1624,162 ##4
 stammered,sta ##mm ##ered
 sousa,sou ##sa
 fundraiser,fund ##ra ##iser
@@ -14634,9 +14966,11 @@ engravings,engr ##aving ##s
 padre,pad ##re
 miniatures,mini ##atures
 pali,pal ##i
+1692,169 ##2
 57th,57 ##th
 antennae,anten ##na ##e
 oskar,os ##kar
+1628,162 ##8
 bulldog,bull ##dog
 crotch,cro ##tc ##h
 hackett,hack ##ett
@@ -14678,6 +15012,7 @@ championed,champion ##ed
 simi,sim ##i
 biplane,bip ##lane
 electrode,elect ##rod ##e
+1697,169 ##7
 cleavage,cle ##ava ##ge
 crossbow,cross ##bow
 swirl,sw ##irl
@@ -14692,6 +15027,7 @@ cervical,cer ##vic ##al
 pointedly,pointed ##ly
 stabilization,stabil ##ization
 chests,chest ##s
+1699,169 ##9
 ctv,ct ##v
 suzy,su ##zy
 gaulle,ga ##ull ##e
@@ -14719,6 +15055,7 @@ plumage,pl ##uma ##ge
 blossoms,blo ##ss ##oms
 dementia,dem ##ent ##ia
 subsidy,subs ##idy
+1611,161 ##1
 proctor,proc ##tor
 jerseys,jersey ##s
 parochial,par ##och ##ial
@@ -14729,6 +15066,7 @@ loren,lore ##n
 cpi,cp ##i
 idiots,idiot ##s
 shamrock,sha ##mr ##ock
+1646,164 ##6
 dutton,dut ##ton
 malabar,mal ##aba ##r
 marche,march ##e
@@ -14749,6 +15087,7 @@ sloppy,slo ##ppy
 subterranean,subt ##err ##ane ##an
 delicately,deli ##cat ##el ##y
 pigment,pig ##ment
+1626,162 ##6
 coveted,cov ##ete ##d
 herds,her ##ds
 chopra,cho ##pr ##a
@@ -14771,6 +15110,7 @@ isotope,isot ##ope
 mrna,mr ##na
 brilliance,brill ##iance
 marvelous,mar ##velo ##us
+1652,165 ##2
 crawley,crawl ##ey
 footed,foot ##ed
 dwellers,dw ##elle ##rs
@@ -14788,6 +15128,7 @@ antigen,anti ##gen
 kowalski,ko ##wal ##ski
 oakley,oak ##ley
 visitation,visit ##ation
+1570,157 ##0
 murderers,mur ##der ##ers
 chimneys,chi ##mn ##ey ##s
 condemn,cond ##em ##n
@@ -14829,9 +15170,11 @@ mala,mal ##a
 eastenders,east ##enders
 messengers,messenger ##s
 bathrooms,bat ##hr ##oom ##s
+1658,165 ##8
 flashbacks,flash ##back ##s
 mendez,men ##de ##z
 uncanny,unc ##ann ##y
+1709,170 ##9
 friendships,friends ##hips
 sacrament,sac ##rame ##nt
 accommodated,accommodate ##d
@@ -14867,6 +15210,7 @@ leith,le ##ith
 sadler,sad ##ler
 theologians,the ##olo ##gi ##ans
 welded,weld ##ed
+1663,166 ##3
 plurality,plural ##ity
 xander,xa ##nd ##er
 shredded,shr ##edd ##ed
@@ -14874,6 +15218,7 @@ temps,temp ##s
 intimately,int ##imate ##ly
 pau,pa ##u
 tormented,tor ##ment ##ed
+1618,161 ##8
 charred,char ##red
 essen,ess ##en
 spraying,spr ##ay ##ing
@@ -14888,6 +15233,7 @@ quiver,qu ##iver
 hays,hay ##s
 mcintosh,mc ##intosh
 walsall,wal ##sa ##ll
+1623,162 ##3
 beverley,be ##ver ##ley
 schwarz,sch ##war ##z
 plunging,pl ##ung ##ing
@@ -14899,6 +15245,7 @@ groningen,gro ##ning ##en
 pew,pe ##w
 unicef,unic ##ef
 55th,55 ##th
+1651,165 ##1
 sulawesi,sul ##aw ##es ##i
 avila,avi ##la
 cai,ca ##i
@@ -14935,6 +15282,7 @@ deformation,def ##orm ##ation
 outlawed,out ##law ##ed
 rubbish,rub ##bi ##sh
 arcs,arc ##s
+1695,169 ##5
 wheelbase,wheel ##base
 wheeling,wheel ##ing
 bombardier,bomb ##ard ##ier
@@ -14957,6 +15305,8 @@ containment,contain ##ment
 vichy,vic ##hy
 madly,mad ##ly
 brant,bra ##nt
+1560,156 ##0
+1612,161 ##2
 broughton,brought ##on
 rustling,rust ##ling
 asbestos,as ##bes ##tos
@@ -15031,11 +15381,13 @@ weightlifting,weight ##lif ##ting
 tugs,tu ##gs
 cleric,cle ##ric
 contentious,content ##ious
+1653,165 ##3
 mania,man ##ia
 bien,bi ##en
 eels,ee ##ls
 discreet,discre ##et
 unofficially,unofficial ##ly
+1705,170 ##5
 dung,dun ##g
 hillsborough,hill ##sb ##oro ##ugh
 pandit,pand ##it
@@ -15116,6 +15468,7 @@ buren,bur ##en
 huskies,hu ##ski ##es
 bets,bet ##s
 loosen,loose ##n
+1682,168 ##2
 yearning,year ##ning
 berman,ber ##man
 effortlessly,effort ##lessly

@@ -18,3 +18,7 @@ bash scripts/docker/launch.sh
 ```
 bash scripts/run_pretraining_seBERT.sh
 ```
+
+## Fine-tuning
+
+The complete fine-tuning and evaluation code can be found in the fine\_tuning folder.
